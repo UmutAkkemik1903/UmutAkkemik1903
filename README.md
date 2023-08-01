@@ -13,3 +13,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutakkemik1903&show_icons=true&locale=en" alt="umutakkemik1903" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umutakkemik1903&" alt="umutakkemik1903" /></p>
+
+
+![snake gif](https://github.com/UmutAkkemik1903/UmutAkkemik1903/blob/output/github-contribution-grid-snake.gif)
